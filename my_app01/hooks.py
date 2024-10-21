@@ -1,7 +1,7 @@
 app_name = "my_app01"
 app_title = "My App01 Test"
 app_publisher = "Hazel Ann Mones"
-app_description = "Pratice app"
+app_description = "Practice App"
 app_email = "hbmones@student.apc.edu.ph"
 app_license = "mit"
 

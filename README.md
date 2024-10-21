@@ -1,6 +1,6 @@
 ### My App01 Test
 
-Pratice app
+Practice App
 
 ### Installation
 

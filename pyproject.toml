@@ -3,7 +3,7 @@ name = "my_app01"
 authors = [
     { name = "Hazel Ann Mones", email = "hbmones@student.apc.edu.ph"}
 ]
-description = "Pratice app"
+description = "Practice App"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
